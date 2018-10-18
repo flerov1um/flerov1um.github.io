@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on そるログ</title>
+    <link>https://flerov1um.github.io/post/</link>
+    <description>Recent content in Posts on そるログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 18 Oct 2018 14:25:46 +0900</lastBuildDate>
+    
+	<atom:link href="https://flerov1um.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://flerov1um.github.io/post/helloworld/</link>
+      <pubDate>Thu, 18 Oct 2018 14:25:46 +0900</pubDate>
+      
+      <guid>https://flerov1um.github.io/post/helloworld/</guid>
+      <description>Hugoでブログ作ってみました。</description>
+    </item>
+    
+  </channel>
+</rss>
